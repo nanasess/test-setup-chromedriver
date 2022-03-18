@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: nanasess/setup-chromedriver@use-npm
+    - uses: nanasess/setup-chromedriver@fix-actions-core
